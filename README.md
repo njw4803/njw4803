@@ -1,11 +1,11 @@
 ## ℹ️ Information
 <img src="https://img.shields.io/badge/nojiwon1227@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/> <img src="https://img.shields.io/badge/njw4803@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white"/>
 
-🖐️ Hi There! I'm full stack Developer with 4 years of experience <br/> 
+🖐️ Hi There! I'm BackEnd Developer with 2 years of experience <br/> 
 I mainly develop using Java <br/>
-enjoy gaming,singing,coding and traveling.<br/>
+enjoy gaming,singing,coding<br/>
 
-I think being a developer is a difficult but rewarding job !<br/>
+I think being a developer is a difficult but rewarding job!<br/>
 
 Fighting everyone !
 
