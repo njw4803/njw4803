@@ -9,9 +9,6 @@ I think being a developer is a difficult but rewarding job!<br/>
 
 Fighting everyone !
 
-![ThumbsUpOkayGIF](https://github.com/HyunDove/HyunDove/assets/139856413/a3a94639-f5c4-4444-8ab7-56cdeb620521)
-
-
 ## 🧑‍💻 Skills
 **Platforms & Languages** <br/><br/>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat-square&logo=Spring Security&logoColor=white"/> <br/>
