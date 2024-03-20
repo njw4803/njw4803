@@ -8,7 +8,5 @@
   - We place importance on growing together by sharing information and thoughts through collaboration with fellow developers.😀
 
 #### My Blog - https://velog.io/@njw4803
-#### Notion - https://www.notion.so/jiwon1226/c1c2a9363bd14cb885746d2de4eb1b51
-
 
 ![njw4803's github stats](https://github-readme-stats.vercel.app/api?username=njw4803&show_icons=true&theme=merko)
