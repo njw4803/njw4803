@@ -9,5 +9,3 @@
 
 #### My Blog - https://velog.io/@njw4803
 
-![njw4803's github stats](https://github-readme-stats.vercel.app/api?username=njw4803&show_icons=true&theme=dark)
-
