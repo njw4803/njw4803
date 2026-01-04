@@ -8,5 +8,4 @@
   - We place importance on growing together by sharing information and thoughts through collaboration with fellow developers.😀
 
 #### My Notion Portfolio - https://jiwon1226.notion.site/4-c1c2a9363bd14cb885746d2de4eb1b51?source=copy_link
-#### My Blog - https://velog.io/@njw4803
 
